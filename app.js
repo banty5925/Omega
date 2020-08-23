@@ -3,17 +3,16 @@
 
 ///Edit Under This only
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+const firebaseConfig = {
+  apiKey: "AIzaSyCbwyO-5AAdz05BiQJ7vI65PqlxUJm5PJg",
+  authDomain: "garena-free-fire-free-dimond.firebaseapp.com",
+  databaseURL: "https://garena-free-fire-free-dimond.firebaseio.com",
+  projectId: "garena-free-fire-free-dimond",
+  storageBucket: "garena-free-fire-free-dimond.appspot.com",
+  messagingSenderId: "701494549417",
+  appId: "1:701494549417:web:60f7e7cab2bacb402b42b8",
+  measurementId: "G-68G6REC7XK"
 };
-
      
  
 ////Do Not Edit Below This
